@@ -36,8 +36,8 @@ $ rails s (rails server -b 0.0.0.0)
 https://docs.google.com/spreadsheets/d/1MUHJiozWa66eLxQJp7RyoGq7b6MEhRlGyZ7nO93uK6w/edit?usp=sharing
 
 ## ER図
-https://drive.google.com/file/d/1gfrU0FZ0-xYWFv0J-C3oPQyOgG9C_fzI/view?usp=sharing
-![ER図](https://user-images.githubusercontent.com/89906223/144708209-0d65f4a3-679a-4108-b3b4-f3a75e90e5c0.png)
+https://drive.google.com/file/d/1PQPZdg2GEg_6zSzkGY2khQm2MpEtR7NH/view?usp=sharing
+![ER図](https://user-images.githubusercontent.com/89906223/144711201-eb78dcc2-3b65-45dd-b41e-07e1fe4f8535.png)
 
 ## 画面遷移図
 https://drive.google.com/file/d/1Y0d7Z5AY8q6HWnXkcUq_sAVENIA_SDit/view?usp=sharing
