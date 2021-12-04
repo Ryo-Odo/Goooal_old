@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1MUHJiozWa66eLxQJp7RyoGq7b6MEhRlGyZ7nO93u
 ![ER図](https://user-images.githubusercontent.com/89906223/144702915-7bc264c1-5a0d-4877-af3e-6fe753d1d5da.png)
 
 ## 画面遷移図
-![画面遷移図](https://user-images.githubusercontent.com/89906223/144702908-cc9fd1e7-7b22-4ee2-bc64-e09d1a3fc39c.png)
+![画面遷移図](https://user-images.githubusercontent.com/89906223/144703228-ac6f440a-f5f6-4823-a1b1-714adf7f30ca.png)
 
 
 ## ワイヤーフレーム
