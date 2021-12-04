@@ -19,7 +19,7 @@
 - フォロー機能
 
 ## カリキュラム外の技術
-- Vue.js
+- Vue.js(タグの選択や検索時のサジェスト入力に使用を想定)
 
 ## 実行手順
 ```
@@ -36,11 +36,14 @@ $ rails s (rails server -b 0.0.0.0)
 https://docs.google.com/spreadsheets/d/1MUHJiozWa66eLxQJp7RyoGq7b6MEhRlGyZ7nO93uK6w/edit?usp=sharing
 
 ## ER図
-![ER図](https://user-images.githubusercontent.com/89906223/144702915-7bc264c1-5a0d-4877-af3e-6fe753d1d5da.png)
+https://drive.google.com/file/d/1gfrU0FZ0-xYWFv0J-C3oPQyOgG9C_fzI/view?usp=sharing
+![ER図](https://user-images.githubusercontent.com/89906223/144708209-0d65f4a3-679a-4108-b3b4-f3a75e90e5c0.png)
 
 ## 画面遷移図
-![画面遷移図](https://user-images.githubusercontent.com/89906223/144703228-ac6f440a-f5f6-4823-a1b1-714adf7f30ca.png)
+https://drive.google.com/file/d/1Y0d7Z5AY8q6HWnXkcUq_sAVENIA_SDit/view?usp=sharing
+![画面遷移図](https://user-images.githubusercontent.com/89906223/144708210-557a5b08-db72-498c-9b33-7f50aebcfb43.png)
 
 
 ## ワイヤーフレーム
-![ワイヤーフレーム](https://user-images.githubusercontent.com/89906223/144702893-859bfb25-2fbb-4b40-9a24-48e83cb24d5e.png)
+https://drive.google.com/file/d/161i4PLBFFuV9YIeWE-rEF4AFMfdVnTPb/view?usp=sharing
+![ワイヤーフレーム](https://user-images.githubusercontent.com/89906223/144708208-3fb2053b-507a-498e-a0f9-5cf80c01fbbd.png)
